@@ -1,5 +1,5 @@
-Feature: Blackjack assessment for Sands
-    This is an assessment for the SDET position at Sands
+Feature: Play blackjack with Cucumber
+    Using Java-Cucumber to evaluate what action to take in Blackjack
 
   Scenario: Determine the outcome of 2 cards dealt to the player
     Given I am playing a game of blackjack
